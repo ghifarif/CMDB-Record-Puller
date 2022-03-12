@@ -1,1 +1,1 @@
-# CMDB-Record-Puller
+This script automatically pull CMDB csv data to be displayed in analytical platform (Redash localhost in this case). Need orchestration such as jenkins/circleCI for schedule pulling automatically. Can be used for similiar case to other cloud system/device, provided API is supported.
