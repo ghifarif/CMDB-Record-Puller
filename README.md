@@ -1,5 +1,6 @@
 This script automatically pull configuration record to be displayed in analytical platform (Redash localhost in my case).
 Combine with orchestration such as Jenkins/Azure DevOps/AWS Pipeline for cycle pulling automatically.
+![image](https://user-images.githubusercontent.com/101460772/158055549-e6c9063d-2d67-4e68-adb9-4ecd0947c0d8.png)
 Can be used for similiar case to other cloud system/environment, provided API is supported.
 
 Refference used/related in this repo:
